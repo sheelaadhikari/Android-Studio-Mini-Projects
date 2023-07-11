@@ -50,13 +50,12 @@ public class MainActivity extends Activity {
                 web, imageId);
         grid=(GridView)findViewById(R.id.grid);
         grid.setAdapter(adapter);
-        grid.setOnItemClickListener(new
-                                            AdapterView.OnItemClickListener() {
-                                                @Override
-                                                public void onItemClick(AdapterView<?> parent,
-                                                                        View view,
-                                                                        int position, long id) {
-                                                    Toast.makeText(MainActivity.this, "You Clicked at " +web[+ position], Toast.LENGTH_SHORT).show();
-                                                }
-                                            });
+        grid.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent,
+                                    View view,
+                                    int position, long id) {
+                Toast.makeText(MainActivity.this, "You Clicked at " +web[+ position], Toast.LENGTH_SHORT).show();
+            }
+        });
     } }
