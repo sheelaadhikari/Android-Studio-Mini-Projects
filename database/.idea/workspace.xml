@@ -9,13 +9,57 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="647da9b1-2a22-4519-8916-a370573eba9d" name="Changes" comment="" />
+    <list default="true" id="647da9b1-2a22-4519-8916-a370573eba9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/androidTest/java/com/example/googlemaps/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/java/com/example/googlemaps/MapsActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/layout/activity_maps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/app/src/test/java/com/example/googlemaps/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleMaps/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Database2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonaciSerires/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FibonaciSerires/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\HP\.android\avd\Pixel_4_API_30_3.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\HP\.android\avd\Pixel_4_API_30_2_1.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -29,23 +73,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RP0M8cIkCBaEFWthrzg2QPz1mN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/AndroidStudioProjects/database&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/HP/AndroidStudioProjects/Database2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.database" />
