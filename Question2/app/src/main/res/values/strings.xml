@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Question2</string>
+    <string name="lastnameInput">FullName</string>
+    <string name="rollnoInput">FullName</string>
+    <string name="addressInput">FullName</string>
+    <string name="firstnameInput">FullName</string>
+    <string name="classInput">FullName</string>
+
+    <string name="locationInput">Location</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>bca
+    <string name="bca">BCA</string>
+    <string name="bbm">BBM</string>
+    <string name="bba">BBA</string>
+    <string name="submitBtn">SubmitBtn</string>
+    <string-array name="select">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+    </string-array>
+
+</resources>
